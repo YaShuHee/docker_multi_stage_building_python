@@ -1,4 +1,10 @@
-A project I created to practice multi-stage docker image creation with Python.
+# Why this project ?
+
+I made this project to practice multi-stage docker image creation (with Python language).
+
+---
+
+# How to test it ?
 
 If you want to test it :
 
